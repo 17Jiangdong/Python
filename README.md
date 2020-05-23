@@ -1,2 +1,2 @@
 # Python
-Life is good.
+python学习笔记
